@@ -2,11 +2,11 @@
 <h1 align="center">Hello World!! 👋</h1>
 <h3 align="center">I'm a Software Engineer at PUCIT '24, MERN Stack Web Developer, ML & AI Enthusiast</h3>
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=khuzaima-a&show_icons=true&locale=en&layout=compact" alt="khuzaima-a" /></p>
+
 - 🔭 I’m currently working on **MERN Stack**
 
 - 🌱 I’m currently learning **Express js**
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=khuzaima-a&show_icons=true&locale=en&layout=compact" alt="khuzaima-a" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
