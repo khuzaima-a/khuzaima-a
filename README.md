@@ -7,7 +7,7 @@
 
 ---
 
-<p><img align="right" width="375px" src="https://github-readme-stats.vercel.app/api/top-langs?username=khuzaima-a&show_icons=true&locale=en&layout=compact" alt="khuzaima-a" /></p>
+<p><img align="right" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=khuzaima-a&show_icons=true&locale=en&layout=compact" alt="khuzaima-a" /></p>
 
 - 🔭 Working on **MERN Stack**
 
