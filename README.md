@@ -11,9 +11,9 @@
 
 - 🔭 Working on **MERN Stack**
 
-- 🏢 Working at **TechFabbier**
+- 🏢 Working at **OCloud Solutions**
 
-- 🌱 Learning **Flutter** & **SpringBoot**
+- 🌱 Learning **Python** & **FastAPI**
 
 - ❤️ Love to do **Problem Solving**
 
